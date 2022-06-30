@@ -1,0 +1,19 @@
+{
+  "name": "fileorganizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avisheksarkar26dec/FileOrganizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avisheksarkar26dec/FileOrganizer/issues"
+  },
+  "homepage": "https://github.com/avisheksarkar26dec/FileOrganizer#readme"
+}
